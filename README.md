@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Matt aka @tokarth
-- 🌱 I’m currently learning everything Azure, Terraform and generally all things cloud
+- 🌱 I’m currently working with Azure, Terraform and generally all things cloud
+- 📖 Starting to learn some actual languages starting with Rust!
 - 📫 How to reach me - tokarth@gmail.com / https://www.linkedin.com/in/matthew-andrews-69645341/
 
 <!---
